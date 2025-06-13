@@ -179,7 +179,7 @@
         }
         @keyframes backgroundCycle {
             0%, 100% {
-                background-image: url('img/java.png');
+                background-image: url('java.png');
             }
             33% {
                 background-image: url('https://images.unsplash.com/photo-1555066931-4365d14bab8c');
